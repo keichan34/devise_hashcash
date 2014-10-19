@@ -1,0 +1,3 @@
+module DeviseHashcash
+
+end
