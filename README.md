@@ -1,0 +1,2 @@
+devise_hashcash
+===============
